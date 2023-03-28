@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from PIL import Image
 import os
 
-discord_token = "MTA5MDI5NjY3NTE4MjA1OTU2MA.GbW5ry.V0-nICVCLtbbb4iUpaHA-8dLMgU4_wL6H3p_9o"
+discord_token = "MTA5MDMxOTYyMDc0NzAzNDcwNA.G1Gvu8.WVZxNruLwkfZXoyxmKSzifAANpud3GezhvOZGw"
 
 load_dotenv()
 client = commands.Bot(command_prefix="*", intents=discord.Intents.all())

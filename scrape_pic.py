@@ -75,5 +75,5 @@ def main(url, path):
 
 
 if __name__ == '__main__':
-    url = "https://discord.com/channels/924589763820945439/924589763820945443"
+    url = "https://www.google.com/search?q=google+h%C3%ACnh+%E1%BA%A3nh&sxsrf=APwXEdeb42oJ21UQf3bPbTl8Vq4kO_70qQ:1680021455558&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSgcvQh__9AhVCIIgKHal2Bl0Q_AUoAXoECAEQAw&biw=1280&bih=619&dpr=1.5"
     main(url, "yandex")

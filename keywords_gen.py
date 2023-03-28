@@ -2,7 +2,7 @@ import openai
 import os
 
 openai.organization = "org-ZtzXEzkbNhCREYG7OZ3cwF3V"
-openai.api_key = "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"
+openai.api_key = "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"
 
 model = "text-davinci-003"
 temperature = 0.5

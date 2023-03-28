@@ -1,7 +1,7 @@
-Draw, Funny Cow, Oval, Curved Line, Spots, Black, White, Udders, Smile, Horns, Triangle, Eyes, Circles
-Angry,Cat,Draw,Midjourney,Script
-Angry, Bird, Sketch, Outline, Sharp, Beak, Wings, Tail, Feathers, Angry Expression
-Draw, big, plane
-evil,dog,outline,sharp,teeth,fangs,claws,horns,red,eyes,fur,mane,tail
-Pen, draw, tall, person, shape, body, limbs, facial, features, hair, clothing, details, perspective.
-Pencil, sketch, outline, beautiful, girl, curves, eyes, nose, mouth, hair, shading, details, color, vibrant.
+Draw, cow, funny, humor, facial, expression, cartoon, lines, circles, ovals, curves, horns, eyes, ears, nose, mouth, tail, hooves, spots, colors, shading, highlights.
+Angry,cat,draw,Midjourney,script
+Angry, Bird, Draw, Line, Curve, Pointed, Beak, Wing, Tail, Feather, Eye, Frown
+pen, up, move, forward, repeat, turn, right, repeat, line, width, thick, draw, plane, bigger
+evil,dog,draw,Midjourney,script
+Pen, down, move, forward, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line,
+Draw, Beautiful, Girl, Outline, Hair, Skin, Eyes, Nose, Mouth, Facial, Features, Clothing, Accessories
