@@ -1,8 +1,7 @@
-Draw, cow, funny, eyes, big, ears, long, horns, curved, tail, wagging, tongue, sticking, out, smile, friendly.
+Draw, Funny Cow, Oval, Curved Line, Spots, Black, White, Udders, Smile, Horns, Triangle, Eyes, Circles
 Angry,Cat,Draw,Midjourney,Script
-Angry, Bird, Draw, Pencil, Outline, Color, Red, Feathers, Sharp, Beak, Angry, Eyes, Wings, Flap
-Draw, Plane, Big
-evil,dog,draw,Midjourney,script
-Pen, draw, tall, person, outline, long, legs, arms, torso, head, facial, features.
-Pencil, sketch, curves, hair, eyes, nose, lips, chin, cheeks, neck, shoulders, arms, torso, hips, legs, feet, background, details, shading, highlights, beautiful, girl.
-Bình là một từ tiếng Việt có nghĩa là "trung bình". Nó có thể được sử dụ
+Angry, Bird, Sketch, Outline, Sharp, Beak, Wings, Tail, Feathers, Angry Expression
+Draw, big, plane
+evil,dog,outline,sharp,teeth,fangs,claws,horns,red,eyes,fur,mane,tail
+Pen, draw, tall, person, shape, body, limbs, facial, features, hair, clothing, details, perspective.
+Pencil, sketch, outline, beautiful, girl, curves, eyes, nose, mouth, hair, shading, details, color, vibrant.
