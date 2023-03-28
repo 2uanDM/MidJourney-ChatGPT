@@ -1,0 +1,7 @@
+Can you generate a script for Midjourney to draw [a funny cow]? In form of keywords, separate with commas.
+Can you generate a script for Midjourney to draw [a angry cat]? In form of keywords, separate with commas.
+Can you generate a script for Midjourney to draw [a angry bird]? In form of keywords, separate with commas.
+Can you generate a script for Midjourney to draw [a big plane]? In form of keywords, separate with commas.
+Can you generate a script for Midjourney to draw [a evil dog]? In form of keywords, separate with commas.
+Can you generate a script for Midjourney to draw [a tall person]? In form of keywords, separate with commas.
+Can you generate a script for Midjourney to draw [a beautiful girl]? In form of keywords, separate with commas.
