@@ -1,7 +1,22 @@
-Draw, cow, funny, humor, facial, expression, cartoon, lines, circles, ovals, curves, horns, eyes, ears, nose, mouth, tail, hooves, spots, colors, shading, highlights.
-Angry,cat,draw,Midjourney,script
-Angry, Bird, Draw, Line, Curve, Pointed, Beak, Wing, Tail, Feather, Eye, Frown
-pen, up, move, forward, repeat, turn, right, repeat, line, width, thick, draw, plane, bigger
-evil,dog,draw,Midjourney,script
-Pen, down, move, forward, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line, move, up, draw, line,
-Draw, Beautiful, Girl, Outline, Hair, Skin, Eyes, Nose, Mouth, Facial, Features, Clothing, Accessories
+Pen, Drawing, Canidae, Color Grading, Enjoyable
+Oil, Painting, Color, Grading, Enjoyable, Canidae, Midjourney
+Canidae, watercolour, enjoyable, color grading, painting, brush strokes, vibrant colors, shadows, highlights, blend, texture.
+Midjourney, color grading, 3d render, Canidae, enjoyable, contrast, saturation, hue, shadows, highlights, atmosphere.
+Midjourney, Color Grading, Enjoyable, Canidae, Sculpture, Artistic, Creative, Unique, Bold, Bright, Contrast, Vibrant, Colorful, Shapes, Patterns, Textures.
+Midjourney, Color Grading, Cartoon, Enjoyable, Canidae
+Bright, Vibrant, Colorful, Cheerful, Joyful, Playful, Sunny, Pastel, Warm, Exciting, Lively
+Line art, Color Grading, Enjoyable, Canidae, Midjourney
+Start, Draw, Canidae, Outline, Color, Dark, Blue, Fill, Inside, Light, Blue, Shade, Gradient, Color, Grading, Enjoyable, Pixel, Art, End.
+Fun, Colorful, Bright, Vibrant, Joyful, Playful, Creative, Artistic, Energetic, Dynamic, Lively, Cheerful, Positive, Canidae.
+Midjourney, Color Grading, Enjoyable, Canidae, Sketch, Keywords, Commas
+Pen, Enjoyable, Depth of Field, Canidae, Outline, Shading, Details, Contrast, Color, Finishing Touches
+Canidae, oil painting, Enjoyable Depth of Field, canvas, brush, paints, sketch, outline, layer, highlights, shadows, details, texture, colours, varnish.
+Paint, Canidae, Watercolour, Enjoyable, Depth of Field
+Depth of Field, 3D Render, Canidae, Enjoyable, Camera, Focus, Blur, Background, Lighting, Textures, Shading, Composition
+Draw, Canidae, Enjoyable, Depth of Field, Sculpture
+Canidae, depth of field, cartoon, enjoyable, midjourney, sketch, colors, lines, shapes, shadows, highlights, background.
+Anime, Canidae, Depth of Field, Enjoyable, Focus, Background, Colorful, Perspective, Lighting, Motion
+depth, field, enjoy, line, art, canidae
+Canidae, Depth of Field, Enjoyable, Pixel Art, Midjourney
+Depth, Enjoyment, Field, Canidae, Graffiti, Art, Creativity, Color, Expression, Freedom
+Canidae, Depth of Field, Enjoyable, Sketch

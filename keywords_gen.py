@@ -2,14 +2,14 @@ import openai
 import os
 
 openai.organization = "org-ZtzXEzkbNhCREYG7OZ3cwF3V"
-openai.api_key = "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"
+openai.api_key = "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"
 
 model = "text-davinci-003"
 temperature = 0.5
-max_tokens = 70
+max_tokens = 60
 
 prompts = []
-with open('sample.txt', 'r', encoding="UTF-8") as f:
+with open('prompts.txt', 'r', encoding="UTF-8") as f:
     for line in f:
         prompt = line.rstrip()
         prompts.append(prompt)
