@@ -4,7 +4,7 @@ from discord.ext import commands
 from dotenv import load_dotenv
 import pyautogui as pg
 
-discord_token = "MTA5MDMyNTc4MjYxMTYzNjMwNg.GrfLbP.9oNQeI8KQZYP2RJVO-t6fEz2duWRHWDpDRvjo0"
+discord_token = "MTA5MDMyNTc4MjYxMTYzNjMwNg.GSQtMW.zzAqqJ-JACqScZjg-QvaCuX2cL4C1GXP5CfcvA"
 
 # Using readlines()
 prompt_file = open('output.txt', 'r')
