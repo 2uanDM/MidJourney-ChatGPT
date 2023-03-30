@@ -1,3 +1,5 @@
+import
+
 adjs = []
 nouns = []
 options = []
@@ -22,17 +24,17 @@ def main():
     num_gen = int(
         input("Enter the number of generation queries for Chat - GPT: "))
     count = 0
+
     with open('../prompts.txt', 'w') as f:
-        for adj in adjs:
-            for noun in nouns:
+        for noun in nouns:
+            for adj in adjs:
                 for option in options:
                     for output_style in output_styles:
                         count += 1
                         lst = [adj, option,
                                output_style, noun]
                         txt = " ".join(lst)
-                        f.write(
-                            f'Generate a script for Midjourney to draw a {txt} in form of keywords, separate with commas \n')
+                        f.write(txt + '\n')
                         if (count == num_gen):
                             return
 
