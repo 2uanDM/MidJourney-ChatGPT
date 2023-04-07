@@ -34,26 +34,26 @@ async def on_message(message):
             time.sleep(2)
             pg.press('tab')
             for i in range(1):
-                time.sleep(0.2)
+                time.sleep(0.5)
                 pg.write('/imagine')
-                time.sleep(0.4)
+                time.sleep(0.8)
                 pg.press('tab')
                 pg.write(prompts[prompt_counter])
-                time.sleep(0.3)
+                time.sleep(0.5)
                 pg.press('enter')
                 time.sleep(0.3)
                 prompt_counter += 1
 
         # continue Automation as soon Midjourney bot sends a message with attachment.
         for attachment in message.attachments:
-            time.sleep(0.2)
+            time.sleep(0.5)
             pg.write('/imagine')
-            time.sleep(0.2)
+            time.sleep(0.8)
             pg.press('tab')
             pg.write(prompts[prompt_counter])
-            time.sleep(0.2)
+            time.sleep(0.5)
             pg.press('enter')
-            time.sleep(0.2)
+            time.sleep(0.3)
             prompt_counter += 1
 
     # Add this line to process commands and events properly

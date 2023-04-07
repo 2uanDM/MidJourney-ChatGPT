@@ -2,7 +2,7 @@ import openai
 import os
 
 openai.organization = "org-ZtzXEzkbNhCREYG7OZ3cwF3V"
-openai.api_key = "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"
+openai.api_key = "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"
 
 model = "text-davinci-003"
 temperature = 0.5
@@ -19,7 +19,8 @@ with open('output.txt', 'w', encoding="UTF-8") as f:
         print(f'Running query {i+1}th...')
         respose = openai.Completion.create(
             engine=model,
-            prompt=prompt,
+            prompt='Can you generate a script for Midjourney to draw a' +
+            prompt + ' in form of keywords, separate with commas.',
             temperature=temperature,
             max_tokens=max_tokens
         )

@@ -1,5 +1,3 @@
-import
-
 adjs = []
 nouns = []
 options = []
