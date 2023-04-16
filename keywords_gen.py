@@ -1,20 +1,22 @@
 import openai
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 openai.organization = "org-ZtzXEzkbNhCREYG7OZ3cwF3V"
-openai.api_key = "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"
+openai.api_key = os.getenv('API_chatGPT')
 
 model = "text-davinci-003"
 temperature = 0.5
 max_tokens = 60
 
 prompts = []
-with open('prompts.txt', 'r', encoding="UTF-8") as f:
+with open('ideas.txt', 'r', encoding="UTF-8") as f:
     for line in f:
         prompt = line.rstrip()
         prompts.append(prompt)
 
-with open('output.txt', 'w', encoding="UTF-8") as f:
+with open('output_prompts.txt', 'w', encoding="UTF-8") as f:
     for i, prompt in enumerate(prompts):
         print(f'Running query {i+1}th...')
         respose = openai.Completion.create(

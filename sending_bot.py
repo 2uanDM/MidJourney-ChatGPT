@@ -3,11 +3,13 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 import pyautogui as pg
+import os
 
-discord_token = "MTA5MDMyNTc4MjYxMTYzNjMwNg.GvAmv9.ZK3_MTIBMtNI_v-SebBEQmroTZwX-BrtBpYMuM"
+load_dotenv()
+discord_token = os.getenv('SendingBot_token')
 
 # Using readlines()
-prompt_file = open('output.txt', 'r')
+prompt_file = open('output_prompts.txt', 'r')
 prompts = prompt_file.readlines()
 
 prompt_counter = 0

@@ -5,9 +5,10 @@ from dotenv import load_dotenv
 from PIL import Image
 import os
 
-discord_token = "MTA5MDMxOTYyMDc0NzAzNDcwNA.GjgGP6.KF1xpozVPT09MAJrmB2mALmLr16XLhUBM2mjrg"
-
 load_dotenv()
+# discord_token = "YOUR_API_KEY"
+discord_token = os.getenv('DownloadBot_token')
+
 client = commands.Bot(command_prefix="*", intents=discord.Intents.all())
 
 directory = os.getcwd()
