@@ -23,7 +23,7 @@ def main():
         input("Enter the number of generation queries for Chat - GPT: "))
     count = 0
 
-    with open('../prompts.txt', 'w') as f:
+    with open('../ideas.txt', 'w') as f:
         for noun in nouns:
             for adj in adjs:
                 for option in options:

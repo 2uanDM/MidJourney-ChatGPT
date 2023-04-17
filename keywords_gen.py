@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-openai.organization = "org-ZtzXEzkbNhCREYG7OZ3cwF3V"
+openai.organization = os.getenv('Orginization_ID')
 openai.api_key = os.getenv('API_chatGPT')
 
 model = "text-davinci-003"
