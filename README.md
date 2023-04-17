@@ -1,4 +1,4 @@
-# Midjourney_auto gen
+# Midjourney_auto introduction
 
 We know that **Mid Journey**, an AI application in form of **Discord** chatbot, allows us to generate pictures through prompts.
 
@@ -19,7 +19,7 @@ Here is the instruction for using this application:
 The main source code for this component is `keywords_gen.py`. In this script, I use `openai` packages to call API from ChatGPT. With the help of ChatGPT, my idea will be converted to diverse prompts
 
 Instead of asking directly like this
-![](https://github.com/2uanDM/API-chatgpt/blob/main/raw/demo/askGPT.png)
+![](https://github.com/2uanDM/API-chatgpt/blob/main/raw/demo/ask.png)
 
 I will use API to export prompts directly from script
 ![](https://github.com/2uanDM/API-chatgpt/blob/main/raw/demo/prompts.png)
@@ -35,3 +35,11 @@ _Remeber that you need to declare you organization id and your API key to run th
 You need to open two file `BotDownload.bat` and `BotSending.bat` first until your Bots alive in your Discord server, which containing the MidJourney Bot,
 
 Type _automation_ in the box chat and script `sending_bot.py` will simulate our step to generate a picture: `/`, `imagine`, `prompts...`, `enter`
+
+# Requirements
+
+## pip
+
+```
+> pip install openai pyautogui discord python-dotenv
+```
