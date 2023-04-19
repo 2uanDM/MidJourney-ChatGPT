@@ -4,7 +4,7 @@ We know that **Mid Journey**, an AI application in form of **Discord** chatbot, 
 
 Click here to know more about Mid Journey: https://www.midjourney.com/home/
 
-For example, you want to generate a picture with this idea: "A funny cow is flying in the sky with a broom"
+For example, you want to generate a picture with this idea: ```A funny cow is flying in the sky with a broom```
 
 This idea is generally simple, but you want to generate magic, sparkling pictures. This work can be done with the help of ChatGPT.
 
